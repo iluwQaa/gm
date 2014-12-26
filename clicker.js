@@ -1,5 +1,5 @@
 var time = $('div.event-head-keyttl').html();
-if($('event-head-keys__chance').length>0) {
+if($('.event-head-keys__chance').length>0) {
   console.log('Form found! Try submit...');
   $('form').submit();
 } else {
