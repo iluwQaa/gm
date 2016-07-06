@@ -1,5 +1,5 @@
 ==                      
-GM WinterIndieFest KeyGraber
+GM WinterIndieFest KeyGraber | Outdated
 ==
 
  - for Google Chrome use "Styler" url:https://chrome.google.com/webstore/detail/styler/bogdgcfoocbajfkjjolkmcdcnnellpkb
